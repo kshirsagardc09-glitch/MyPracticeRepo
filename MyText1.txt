@@ -1,0 +1,5 @@
+This is java file - git 
+
+ git config --global user.email "kshirsagardc09@gmail.com"
+  git config --global user.name "kshirsagardc09"
+kshirsagardc09
